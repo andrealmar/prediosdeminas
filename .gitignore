@@ -1,5 +1,6 @@
 *DS_Store
 .venv
-.pyc
-*sqlite3
+*.pyc
+*.sqlite3
 *idea
+__pycache__
